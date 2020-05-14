@@ -35,5 +35,8 @@ This project is totally open source, you are free to contribute, open a pull req
 This project is under the MIT license, see the file [LICENSE](LICENSE.md) for more details.
 
 ---
+## Supporters
+
+[<img src="https://avatars1.githubusercontent.com/u/65086058?s=200&v=4" width=115><br><sub>@oyiny</sub>](https://github.com/oyiny) 
 
 Made with ♥ by Juliano Alves :wave: 
