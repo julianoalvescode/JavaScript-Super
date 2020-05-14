@@ -22,13 +22,9 @@ A repository to talk about Javascript and your methods principals and functions
   
 
 <p  align="center">
-
 <a  href="#shipt-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
 <a  href="#trollface-contribute">Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
 <a  href="#memo-license">License</a>
-
 </p>
 
   
