@@ -1,11 +1,9 @@
 
 <h1 align="center">
     <img alt="JavaScript Master" src="./assets/img/super.gif"  height="400" />
+    <img alt="Logo JavaScript" src="./assets/svg/logo.svg" height="70">
 </h1>
 
-<h1 align="center">
-    <img alt="Logo JavaScript" src="./assets/svg/logo.svg" height="30">
-</h1>
 
 <h3 align="center">
   A repository to talk about Javascript and your methods principals and functions 
